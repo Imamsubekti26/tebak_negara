@@ -1,6 +1,6 @@
 # tebak_negara
 
-A new Flutter project.
+Ini adalah project flutter pertama saya, di dalam aplikasi ini memuat berbagai informasi negara-negara di dunia.
 
 ## Getting Started
 
